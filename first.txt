@@ -1,3 +1,4 @@
 this is version 1 of the project
 WE HAVE added this line to see that our this "first.txt" file is already in staging area
  and after editing this file it will also be added to the "modified" stage
+this is at newbrach Branch
